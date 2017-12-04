@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="photo4small" size="1.000000 0.750000" />
+    <ImageTarget name="photo3small" size="1.000000 0.750000" />
+    <ImageTarget name="photo2small" size="1.000000 0.750000" />
+    <ImageTarget name="photo1small" size="1.000000 0.750000" />
+    <ImageTarget name="Hamburg_U_S_Bahn_Stationen_1" size="1.000000 0.705389" />
+    <ImageTarget name="AngelaGut" size="50.000000 37.500000" />
+    <ImageTarget name="fazGut2" size="50.000000 36.341724" />
+    <ImageTarget name="faz" size="50.000000 37.500000" />
+    <ImageTarget name="vuforia_stones_vergium" size="50.000000 35.000000" />
+    <ImageTarget name="pitchfoto" size="50.000000 66.666664" />
+  </Tracking>
+</QCARConfig>
